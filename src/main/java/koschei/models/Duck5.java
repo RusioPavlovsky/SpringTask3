@@ -9,9 +9,6 @@ public class Duck5 {
     @Autowired
     private Egg6 egg6;
 
-    public void setEgg6(Egg6 egg6) {
-        this.egg6 = egg6;
-    }
 
     @Override
     public String toString() {
